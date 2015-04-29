@@ -1,0 +1,1 @@
+function ejemplo(){console.log("ejemplo de minificación de js")}function ejemplo2(){console.log("ejemplo de minificación de js")}

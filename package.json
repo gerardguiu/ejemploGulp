@@ -1,0 +1,11 @@
+{
+  "name": "ejemploGulp",
+  "version": "1.0.0",
+  "description": "Ejemplo de uso de Gulp",
+  "author": "Gerard Guiu",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-uglifyjs": "^0.6.1"
+  }
+}
